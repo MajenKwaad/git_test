@@ -1,0 +1,1 @@
+This is MajenKwaad first git project!
